@@ -79,7 +79,7 @@ git clone https://github.com/Esserpiente/HH_project
 
 ### :arrow_forward: Авторы
  
- Дротенко Алексей Александрович
+ Алексей Александрович
 
 ### :arrow_forward: Выводы
 
