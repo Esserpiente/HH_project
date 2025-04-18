@@ -22,7 +22,8 @@
 
 **О структуре проекта:**
 * [HH_project](/HH_project/) - папка с основными файлами проекта
-* [Images](/HH_project/Images/) - папка с изображениями, необходимыми для проекта
+* [Plotly_png](/HH_project/Plotly_png/) - папка с изображениями, необходимыми для проекта
+* [HTML_graph](/HH_project/HTML_graph/) - папка с HTML-файлами, графиков
 * [requirements.txt](/HH_project/requirements.txt) - код воспроизводим: зафиксированы версии библиотек в виде файла requirements.txt или иного формата файлов конфигураций.
 * [HH_project.ipynb](/HH_project/HH_Project.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 * [head_hunter.py](HH_project/head_hunter.py) - Python - файл, содержащий код проекта
